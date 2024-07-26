@@ -1,5 +1,8 @@
 #include<iostream>
 using namespace std;
+
+//TO FIND UNIQUE NUMBER IN A GIVEN ARRAY.
+
 int uniquesol(int a[],int n){
 int ans=0;
 for(int i=0;i<n;i++){
